@@ -46,7 +46,7 @@ namespace H21WebApplication
 
             // string constring="server=myserver.net,1433;database=Test;userid=test;password=test"
 
-            SqlConnection conn = new SqlConnection("server=DESKTOP-DEV-07/SQLSERVEREXPRESS;1433;database=aquatech");
+            SqlConnection conn = new SqlConnection(@"Data Source=(local)\sqlserverexpress;initial Catalog=aquatech;Integrated Security=True");
 
             // here I have to creare list of contact calss
             List<contact> contactslist = new List<contact>();
