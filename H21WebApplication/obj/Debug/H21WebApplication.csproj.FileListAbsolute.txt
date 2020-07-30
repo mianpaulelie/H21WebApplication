@@ -56,3 +56,6 @@ C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\obj\Debug\H21W
 C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\obj\Debug\H21WebApplication.csproj.CopyComplete
 C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\obj\Debug\H21WebApplication.dll
 C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\obj\Debug\H21WebApplication.pdb
+C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\obj\Debug\H21WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\bin\Newtonsoft.Json.dll
+C:\Users\S2mianp\source\repos\H21WebApplication\H21WebApplication\bin\Newtonsoft.Json.xml
